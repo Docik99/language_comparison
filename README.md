@@ -2,7 +2,9 @@
 
 #### The performance comparison was made on the basis of a recursive function for calculating Fibonacci numbers
 
-![scheme](https://github.com/Docik99/language_comparison/assets/32065929/1a43ccc5-9adf-44ef-bd3c-62a6b5515608)
+
+![scheme](https://github.com/Docik99/language_comparison/assets/32065929/6f7ebc41-048a-47dd-9c96-64ddb08360c3)
+
 
 ### Python3
 ```

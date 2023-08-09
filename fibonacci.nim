@@ -1,6 +1,6 @@
-import times
-import os
-from std/strutils import Digits, parseInt
+from times import cpuTime
+from os import paramStr
+from strutils import parseInt
 
 proc fibonacci(n: int): int = 
     if n <= 1:
